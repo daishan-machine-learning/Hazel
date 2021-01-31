@@ -1,0 +1,2 @@
+[13:35:59] basic_logger: file log!
+[13:41:27] basic_logger: Game Engine start!
